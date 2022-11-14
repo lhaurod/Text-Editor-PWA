@@ -1,6 +1,7 @@
 # Text-Editor-PWA
 # Description 
-
+this app is to create notes or code snippets with or without an internet connection
+so that you can reliably retrieve them for later use
 
 # Technologies
 To use this application you should install

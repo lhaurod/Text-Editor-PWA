@@ -3,7 +3,6 @@
 
 
 # Technologies
-# How to Use it
 To use this application you should install
   * npm install express (express.js)
   * npm install --save-dev webpack (Webpack)
